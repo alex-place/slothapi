@@ -2,9 +2,9 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>badsloth</groupId>
 	<artifactId>badsloth</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>badsloth</groupId>
+        <version>0.0.1-SNAPSHOT</version>
 	<name>badsloth</name>
 	<packaging>pom</packaging>
 	<repositories>
@@ -38,8 +38,6 @@
 			<version>1.2.17</version>
 		</dependency>
 
-	</dependencies>
-</project>
 	</dependencies>
 	<modules>
 		<module>debugclient</module>
