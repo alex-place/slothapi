@@ -40,3 +40,9 @@
 
 	</dependencies>
 </project>
+	</dependencies>
+	<modules>
+		<module>debugclient</module>
+		<module>server</module>
+	</modules>
+</project>
