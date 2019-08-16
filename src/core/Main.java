@@ -2,6 +2,8 @@ package core;
 
 import org.apache.log4j.Logger;
 
+import server.SlothServer;
+
 public class Main {
 	
 	public static void main(String[] args) throws Exception {
