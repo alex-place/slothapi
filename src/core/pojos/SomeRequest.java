@@ -1,4 +1,4 @@
-package core.registeredObjects;
+package core.pojos;
 
 public class SomeRequest {
 

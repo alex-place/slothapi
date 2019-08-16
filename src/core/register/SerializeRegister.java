@@ -6,8 +6,8 @@ import com.esotericsoftware.kryonet.Client;
 import com.esotericsoftware.kryonet.EndPoint;
 import com.esotericsoftware.kryonet.Server;
 
-import core.registeredObjects.SomeRequest;
-import core.registeredObjects.SomeResponse;
+import core.pojos.SomeRequest;
+import core.pojos.SomeResponse;
 
 public class SerializeRegister {
 
